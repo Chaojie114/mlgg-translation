@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/anosu/muvluvgg-translation.git",
+  "private": false,
+  "scripts": {
+    "start": "node app.js",
+    "manifest": "node manifest.js",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
+  },
+  "dependencies": {
+    "compression": "^1.8.1",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
