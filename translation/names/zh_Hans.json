@@ -678,7 +678,11 @@
     "沿岸監視員": "沿岸监视员",
     "煽る少女": "挑衅的少女",
     "片目隠れの少女": "遮住单眼的少女",
-    "イーニァ": "伊妮娅"
+    "イーニァ": "伊妮娅",
+    "ジャール大隊": "贾尔大队",
+    "ラトロワ": "拉托洛瓦",
+    "女性看護師": "女性看护师",
+    "整備班": "整备班"
   },
   "teamNames": {
     "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
@@ -722,6 +726,7 @@
     "<color=#ffbcd6>シリウスシュガー</color>": "<color=#ffbcd6>Sirius Sugar</color>",
     "<color=#ffca96>プレ・クラス－Ａ</color>": "<color=#ffca96>Pre Class A</color>",
     "スカラ水上スポーツ大会実行委員会": "斯卡拉水上运动大会执行委员会",
-    "ステラマリス": "Stellamaris"
+    "ステラマリス": "StellaMaris",
+    "プロミネンス": "Prominence"
   }
 }
